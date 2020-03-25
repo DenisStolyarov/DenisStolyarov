@@ -1,2 +1,1 @@
-# DenisStolyarov
-Python.Study.Lite
+# Python.Study.Lite
